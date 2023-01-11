@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>
-        Hello!
-        </title>
+        <title>Hello!</title>
         <style>
         </style>
     </head>
