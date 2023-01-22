@@ -1,0 +1,25 @@
+.nike
+ {
+    font-size: 24px;
+    font-weight: bold;
+ }
+ .stock
+{
+    color: rgb(0, 118, 0);
+    font-weight: bold;
+}
+.delivery
+{
+    font-weight: bold;
+}
+.addcart-button
+    {
+        background-color: rgb(255, 216, 20);
+        color: black;
+        height: 30px;
+        width: 125;
+        cursor: pointer;
+        border-radius: 20px;
+        border: none;
+
+    }

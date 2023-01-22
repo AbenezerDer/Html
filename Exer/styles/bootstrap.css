@@ -1,0 +1,26 @@
+.getstarted-button
+{
+    background-color: rgb(121, 82, 179);
+    color: white;
+    height: 36px;
+    width: 100;
+    border-radius: 5px;
+    border-style: none;
+    cursor: pointer;
+    font-weight: bold;
+    margin-left: 8px;
+
+}
+.Download-button
+{
+    background-color: white;
+    color: gray;
+    height: 36px;
+    width: 100;
+    border-radius: 5px;
+    border-style:solid;
+    border-color: gray;
+    cursor: pointer;
+    font-weight: bold;
+    margin-left: 8px;
+}
